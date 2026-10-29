@@ -1,0 +1,17 @@
+# Licensed content — users pull these themselves
+owasp_cheatsheets/
+owasp_wstg/
+mitre_attack/
+
+# Personal lab notes (real network/device/hardware details)
+**/06_Lab_WirelessRecon.md
+**/05_Wireless_80211_OperationPantera.md
+**/04_Lab_ACDualC5_Flash.md
+
+# Obsidian + RAG local junk
+.obsidian/
+chroma_db/
+venv/
+# Internal setup notes (local paths)
+**/_HOW-TO-MERGE.md
+**/_SETUP-NEW-AI.md
